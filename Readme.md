@@ -1,5 +1,6 @@
 # Restaurant and cars data
 
+https://indiradjambaeva.github.io/JS2-week5-task10/
 
 # Tasks
 1. Продолжите работу с классом ресторана, созданного во время урока. Добавьте классу атрибут served со значением 0.
